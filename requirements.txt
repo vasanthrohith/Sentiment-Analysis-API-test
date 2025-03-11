@@ -2,3 +2,8 @@ textblob
 fastapi
 uvicorn
 flask
+numpy
+matplotlib
+pandas
+scipy
+nltk
